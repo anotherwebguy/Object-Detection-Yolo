@@ -52,4 +52,21 @@ I've used YOLO v3 for coding purpose in this repository.<br>
 ### 7. For Real time Object Detection using webcam
     python main.py    
 
+----
+
+## Inference on Images
+![1](https://user-images.githubusercontent.com/66346161/124371702-fdc00f80-dca1-11eb-9954-e608c439a007.png)
+![2](https://user-images.githubusercontent.com/66346161/124371704-01539680-dca2-11eb-8e5d-fd5d6651eb92.png)
+![3](https://user-images.githubusercontent.com/66346161/124371707-04e71d80-dca2-11eb-95d9-8f57e226f906.png)
+
+## Inference on Videos
+
+https://user-images.githubusercontent.com/66346161/124371752-6effc280-dca2-11eb-94d2-eb1d6639fa36.mp4
+
+https://user-images.githubusercontent.com/66346161/124371753-732be000-dca2-11eb-9582-2fbbb2bd9e28.mp4
+
+
+## Inferences in Real Time
+![4](https://user-images.githubusercontent.com/66346161/124371734-48418c00-dca2-11eb-8f2e-249bc48fd457.png)
+
 
