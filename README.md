@@ -31,7 +31,7 @@ For this project pretrained YOLOv3 models was used. The YOLOv3 implementation is
 I've used YOLO v3 for coding purpose in this repository.<br>
 <b>YOLO (You Only Look Once)</b> is a very powerful and a fast algorithm in object detection. A strong understanding of the algorithm is essential before we start to code.<br>
 
-### Before getting started, Make sure you have numpy and opencv installed. If not install them using pip
+### Before getting started, Make sure you have numpy and opencv installed. If not install them using pip.
      pip install numpy
      pip install opencv-python
      
